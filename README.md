@@ -16,10 +16,9 @@ Chaos-based encryption methods utilize the unpredictable behavior of dynamical s
 
 ## Project Structure
 
-- `arnold_cat_map_encryption.py`: Python script implementing Arnold Cat Map Encryption technique.
-- `henon_map_encryption.py`: Python script implementing Henon Map Encryption technique.
+- `Chaos_techniques.ipynb`: Python script implementing Arnold Cat and Henon Map Encryption technique.
 - `client.py` and `server.py`: Client and server scripts for socket programming-based communication.
-- `images/`: Directory containing sample images for encryption and decryption.
+- `test_images/`: Directory containing sample images for encryption and decryption.
 
 ## Usage
 
