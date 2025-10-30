@@ -46,6 +46,8 @@ Properties:
 
 ### Henon Map
 
+<img width="929" height="314" alt="image" src="https://github.com/user-attachments/assets/a3708bf8-542a-4db9-b543-1ea33866a532" />
+
 Henon map (2D discrete-time):
 
 x_{n+1} = 1 - a*x_n^2 + y_n  
