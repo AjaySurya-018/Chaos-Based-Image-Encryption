@@ -31,6 +31,8 @@ Research questions:
 
 ### Arnold Cat Map (ACM)
 
+<img width="867" height="366" alt="image" src="https://github.com/user-attachments/assets/cef116cf-f1d5-45d1-a580-d9af50a23d8e" />
+
 ACM is a discrete chaotic map on a 2D torus (for NxN images):
 
 x' = (x + y) mod N  
