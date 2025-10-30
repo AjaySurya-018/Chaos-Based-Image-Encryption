@@ -64,12 +64,6 @@ Properties:
 
 ## Methodology
 
-### Pipeline Architecture
-
-[Image Input] → [Preprocessing] → [Chaos-Based Encryption] → [Security Analysis] → [Decryption Validation]  
-                                         ↓  
-                                  [Network Transmission]
-
 Steps:
 1. Preprocessing
    - Convert images to grayscale or operate per-channel for color images
