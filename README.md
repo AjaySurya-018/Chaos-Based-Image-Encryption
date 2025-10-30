@@ -41,8 +41,6 @@ Properties:
 - Periodic (Poincaré recurrence)
 - Controllable diffusion via iteration count
 
-<img width="926" height="656" alt="image" src="https://github.com/user-attachments/assets/8443c45e-12ad-431e-b4a2-03288359332f" />
-
 
 ### Henon Map
 
